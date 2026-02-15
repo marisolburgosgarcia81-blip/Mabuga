@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ohio Mayhem: Absolute Cinema Dashboard",
+  "description": "A high-energy, brainrot-themed dashboard for the ultimate Gen Z multiplayer game. Featuring real-time physics simulation, a meme-driven donation system, and an aura-based shop.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
